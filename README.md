@@ -1,3 +1,3 @@
 # myfirst-demo
-My First Repository
-author Riiya Kushwaha
+My First Repository.
+Author-Riiya Kushwaha
